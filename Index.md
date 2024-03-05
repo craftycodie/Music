@@ -1,1 +1,4 @@
-I
+# Index Of Files
+| Folder    | Description |
+| -------- | ------- |
+| escapism_d7_remake  | Contains lead files for an unfinished song created for a game @daisyUniverse was working on. The song was abandoned at Draft 7, and later picked up for a [SoundCloud](https://soundcloud.com/craftycodie/a-song-i-made-for-a-long-gone-game-in) release. Starts at 70 BPM, peaks at 80 BPM, ends at 60. But you can just stick to 70 for simplicity. Each track comes in kinda like a canon, though I'm not sure if the song technically is a canon. At the time of writing I've never played this song (it was arranged in Ableton originally) it might be possible to perform in full with two pianos at least taking a treble and treble suboctave clef per player, or with four pianos, but honestly just play one by one and overdub it's not worth the hassle lol.  |
